@@ -1,0 +1,2 @@
+C:\Users\VivoBook\Downloads\ProjectSources\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\VivoBook\Downloads\ProjectSources\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
